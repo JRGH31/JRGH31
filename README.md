@@ -17,19 +17,41 @@
 - 👔 Capaz de trabajar en equipo
   
 - 💻 Enfocado en C, C++, CSS y Java
-  
-- Diseño web
-  
-<br>
-<br>
-<br>
-  <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <!--<a href="https://www.linkedin.com/in/jonah-lawrence/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
-  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <!-- <a href="https://www.reddit.com/user/denvercoder1/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a> -->
-  <a href="https://jonahlawrence.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
-  <a href="https://dev.to/denvercoder1"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31efipu4iywxslfexcrp3xxebj6i?si=b3d91b6c4df54371)
+
+---
+
+</br>
+</br>
+</br>
+</br>
+## Contactame
+<div align="center"> 
+<a href="https://github.com/JRGH31" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/josegonzal97010" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/jose.ricardo.gonzalez.hilario" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.linkedin.com/in/jose-gonzales-hilario-66241a37a/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+
 
