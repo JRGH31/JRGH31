@@ -19,6 +19,7 @@
 - 💻 Enfocado en C, C++, CSS y Java
 </p>
 
+
 </br>
 </br>
 </br>
@@ -33,15 +34,9 @@
 
 ---
 
-[![JRGH32 github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/JRGH31/JRGH32?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/JRGH31/JRGH32)
-
-<!-- <a href="https://github.com/JRGH31/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=JRGH32&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />wi*quL3fcV<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRGH32&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> -->
-
-
-
 </br>
-</br>
-## Contactame
+
+### Contactame
 <div align="center"> 
 <a href="https://github.com/JRGH31" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -55,6 +50,7 @@
 <a href="https://www.linkedin.com/in/jose-gonzales-hilario-66241a37a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+---
 </div>  
 
 
