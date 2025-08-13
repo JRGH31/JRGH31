@@ -17,6 +17,8 @@
 - 👔 Capaz de trabajar en equipo
   
 - 💻 Enfocado en C, C++, CSS y Java
+  
+- 💾 Aprendiendo el funcionamiento de Github
 </p>
 
 
