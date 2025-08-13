@@ -21,23 +21,14 @@
 - 💾 Aprendiendo el funcionamiento de Github
 </p>
 
-
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31efipu4iywxslfexcrp3xxebj6i?si=b3d91b6c4df54371)
 
 ---
-
-</br>
-
 ### Contactame
 <div align="center"> 
 <a href="https://github.com/JRGH31" target="_blank">
